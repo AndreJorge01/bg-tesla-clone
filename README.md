@@ -6,7 +6,7 @@
 clone of tesla website homepage to practice HTML and CSS
 
 ## technologies used
-+ HTML
++ HTML.
 + CSS.
 # Start Dev Environment for VSCode
 + Open project folder in VSCode
